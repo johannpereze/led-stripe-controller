@@ -89,8 +89,8 @@ void loop() {
   //  Serial.print(rVal * bright * state); gPin, gVal * bright * state
 } */
 
-int dot = 100;
-int dash = 300;
+int dot = 1000;
+int dash = 3000;
 int ledPin = 13;
 int finalDelay = 1500;
 
